@@ -1,3 +1,6 @@
+//operators and conditional statements
+
+
 let score = prompt("Enter your score:");
 
 if(score <= 100 && score >= 80)
